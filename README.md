@@ -80,12 +80,13 @@ cd IA-para-An-lisis-y-Predicci-n-de-Ventas
 ----
 ## 📊 Vista previa
 
-<img width="1841" height="726" alt="Visualizacion_prediccion_ " src="https://github.com/user-attachments/assets/813cbdb8-39be-496d-83c4-96318629b48a" />
+img width="1841" height="726" alt="Visualizacion_prediccion_ " src="https://github.com/user-attachments/assets/813cbdb8-39be-496d-83c4-96318629b48a" 
 
 
 ## 🧩 Autor 
 Fabián Guerra C.
  
+
 
 
 

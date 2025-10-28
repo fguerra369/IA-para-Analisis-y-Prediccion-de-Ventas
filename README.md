@@ -44,8 +44,6 @@ Analisis_predictivo_ventas/
 
 │ └── visualizaciones.py # Gráficos y análisis
 
-│
-
 ├── model.joblib # Modelo entrenado
 
 ├── requirements.txt # Dependencias del proyecto
@@ -88,6 +86,7 @@ cd IA-para-An-lisis-y-Predicci-n-de-Ventas
 ## 🧩 Autor 
 Fabián Guerra C.
  
+
 
 
 

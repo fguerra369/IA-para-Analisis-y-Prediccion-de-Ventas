@@ -61,21 +61,21 @@ git clone https://github.com/fguerra369/IA-para-An-lisis-y-Predicci-n-de-Ventas.
 cd IA-para-An-lisis-y-Predicci-n-de-Ventas
 
 ## 2️⃣ Crear entorno virtual
-°python -m venv .venv
+•python -m venv .venv
 
 ## 3️⃣ Activar entorno (Windows)
 
-°.venv\Scripts\activate
+•.venv\Scripts\activate
 
 
 ## 4️⃣ Instalar dependencias
 
-°pip install -r requirements.txt
+•pip install -r requirements.txt
 
 
 ## 5️⃣ Ejecutar la app
 
-°streamlit run src/app_streamlit.py
+•streamlit run src/app_streamlit.py
 
 ----
 ## 📊 Vista previa
@@ -88,6 +88,7 @@ cd IA-para-An-lisis-y-Predicci-n-de-Ventas
 ## 🧩 Autor 
 Fabián Guerra C.
  
+
 
 
 

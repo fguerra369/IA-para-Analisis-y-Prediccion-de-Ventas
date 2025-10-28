@@ -56,7 +56,7 @@ Analisis_predictivo_ventas/
 ## ⚙️ Instalación y ejecución
 
 1️⃣ Clonar el repositorio  
-```bash
+ 
 git clone https://github.com/fguerra369/IA-para-An-lisis-y-Predicci-n-de-Ventas.git
 cd IA-para-An-lisis-y-Predicci-n-de-Ventas
 
@@ -80,12 +80,14 @@ cd IA-para-An-lisis-y-Predicci-n-de-Ventas
 ----
 ## 📊 Vista previa
 
+<img width="1841" height="726" alt="Visualizacion_prediccion_ " src="https://github.com/user-attachments/assets/0353e970-afb2-443c-afa7-5fc920657e5f" />
 
 
 
 ## 🧩 Autor 
 Fabián Guerra C.
  
+
 
 
 

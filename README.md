@@ -33,14 +33,23 @@ Aplicación interactiva desarrollada con Streamlit y Machine Learning para anali
 
 Analisis_predictivo_ventas/
 │
+
 ├── data/ # Datos de entrada (ventas.csv)
+
 ├── src/ # Código fuente principal
+
 │ ├── app_streamlit.py # Aplicación Streamlit
+
 │ ├── modelo_prediccion.py # Entrenamiento del modelo ML
+
 │ └── visualizaciones.py # Gráficos y análisis
+
 │
+
 ├── model.joblib # Modelo entrenado
+
 ├── requirements.txt # Dependencias del proyecto
+
 └── README.md # Documentación
 
 ----
@@ -71,17 +80,12 @@ cd IA-para-An-lisis-y-Predicci-n-de-Ventas
 ----
 ## 📊 Vista previa
 
-<img width="1858" height="872" alt="image" src="https://github.com/user-attachments/assets/1a614909-8d61-435b-8eb8-83e0e31fc72b" />
-
-<img width="1430" height="639" alt="image" src="https://github.com/user-attachments/assets/aca9f929-fe05-432b-a910-cae1a1129d2a" />
-
-<img width="1435" height="648" alt="image" src="https://github.com/user-attachments/assets/8ebd07da-9b31-465d-9089-87ca9148663a" />
-
-<img width="1440" height="741" alt="image" src="https://github.com/user-attachments/assets/9dcf56ac-ab7f-4959-9472-eae490edbb01" />
+<img width="1841" height="726" alt="Visualizacion_prediccion_ " src="https://github.com/user-attachments/assets/813cbdb8-39be-496d-83c4-96318629b48a" />
 
 
 ## 🧩 Autor 
 Fabián Guerra C.
  
+
 
 
